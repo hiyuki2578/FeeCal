@@ -8,4 +8,11 @@
     <string name="Aged">高齢</string>
     <string name="Students">学生</string>
     <string name="Clear">削除</string>
+    <string name="Calculation">計算</string>
+    <string name="mon10">$10</string>
+    <string name="mon2">$2</string>
+    <string name="mon5">$5</string>
+    <string name="Fee">運賃</string>
+    <string name="Cash">預り金</string>
+    <string name="Change">お釣り</string>
 </resources>

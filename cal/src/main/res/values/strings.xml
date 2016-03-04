@@ -7,5 +7,11 @@
     <string name="Students">Students</string>
     <string name="Aged">Aged</string>
     <string name="Clear">Clear</string>
-    <string name="hello_world">Hello world!</string>
+    <string name="Calculation">Calculation</string>
+    <string name="mon2">$2</string>
+    <string name="mon5">$5</string>
+    <string name="mon10">$10</string>
+    <string name="Fee">Fee</string>
+    <string name="Cash">Cash</string>
+    <string name="Change">Change</string>
 </resources>
