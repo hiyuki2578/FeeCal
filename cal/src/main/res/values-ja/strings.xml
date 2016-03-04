@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">料金計算</string>
+    <string name="Oneway">片道</string>
+    <string name="Oneday">一日</string>
+    <string name="Weekly">週間パス</string>
+    <string name="Adult">大人</string>
+    <string name="Aged">高齢</string>
+    <string name="Students">学生</string>
+    <string name="Clear">削除</string>
+</resources>

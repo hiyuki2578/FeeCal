@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FeeCal</string>
+    <string name="Oneway">One-Way</string>
+    <string name="Oneday">One-day</string>
+    <string name="Weekly">Weekly pass</string>
+    <string name="Adult">Adult</string>
+    <string name="Students">Students</string>
+    <string name="Aged">Aged</string>
+    <string name="Clear">Clear</string>
+    <string name="hello_world">Hello world!</string>
+</resources>
